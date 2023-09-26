@@ -9,12 +9,30 @@ Site criado em função de uma prova da materia DESENVOLVIMENTO WEB do curso sup
   - TITLE -> Serve para modificar o nome da pagina na barra das janelas;
 - BODY
   - DIV -> Divisória entre as seções existentes no site;
-  - DIV -> DIV da linha 16 serve para criar a barra fixa de menu;
-  - A -> o A da linha 17 é o Titulo do site que aparece a esquerda da barra de menu e o das linhas a baixo para definir os nomes das outras intersessoes;
+  - A -> o A da linha 17 é o que da o nome dentro da imagem;
   - IMG -> insere imagens e recebe as tags widht e height para alterar o tamanho;
-  - H1, H4, H5 -> Titulos
-  - P -> paragráfos utilizados dentro do site
-  - FORM -> Feito para o menu contato
-  - BUTTON -> tag utilizada para a criação de botões
-  - INPUT -> tag utilizada para a criação de campos com capacidade de inserção de texto pelo usuário.
-  - FOOTER -> tag utilizada para o rodapé do site
+  - H1, H4, H5 -> Titulos;
+  - P -> paragráfos utilizados dentro do site;
+  - HR -> Utilizado para ciar uma linha separando o site em partes
+  - FORM -> Feito para o menu contato;
+  - INPUT -> tag utilizada para a criação de campos com capacidade de inserção de texto pelo usuário;
+  - FOOTER -> tag utilizada para o rodapé do site;
+
+# PROPRIEDADES utilizadas no CSS
+
+  - MARGIN -> Movimenta o compontente usando a margem da tela como referência;
+  - PADDING -> Movimenta a posição do componente baseado no espaço interno do item;
+  - MARGIN -> Movimenta o compontente usando a margem da tela como referência;
+  - FONT-FAMILY -> Define qual fonte será exibida no corpo do site;
+  - FONT-SIZE -> Define o tamanho da fonte que sera exibida no corpo do site;
+  - DISPLAY -> Define como o elemento será tratado, se em linhas ou em bloco flexivel;
+  - TEXT-ALIGN -> Alinha o conteudo da div para o inicio, meio ou final;
+  - WIDTH -> Define largura da pagina ou componente;
+  - HEIGHT -> Define altura da pagina ou componente;
+  - MAX-WIDTH -> Define largura máxima da pagina ou componente;
+  - MAX-HEIGHT -> Define altura máxima da pagina ou componente:
+  - BORDER-RADIUS -> Define o quão arredondado será as bordas do item;
+  - BOX-SHADOW -> Adiciona efeito de sombra ao redor do componente;
+  - CURSOR -> Modifica o cursor do mouse ao passar ele por cima do componente com essa configuração;
+  - POSITION -> Define a posição em que um item ira ficar;
+  - BOX-SIZING -> Determina as dimensões especificadas (largura e altura) de um elemento;
