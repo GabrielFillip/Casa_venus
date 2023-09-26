@@ -7,7 +7,7 @@ Site criado em função de uma prova da materia DESENVOLVIMENTO WEB do curso sup
   - LINK -> Conexão com o CSS e colocar o icone do lado do titulo do site;
   - STYLE -> Importei uma fonte-famlily chamada Dancing-Script;
   - TITLE -> Serve para modificar o nome da pagina na barra das janelas;
--BODY
+- BODY
  - DIV -> Divisória entre as seções existentes no site;
  - DIV -> DIV da linha 16 serve para criar a barra fixa de menu;
  - A -> o A da linha 17 é o Titulo do site que aparece a esquerda da barra de menu e o das linhas a baixo para definir os nomes das outras intersessoes;
