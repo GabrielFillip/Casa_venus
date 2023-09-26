@@ -1,7 +1,7 @@
-#Cardapio De loja
+# Cardapio De loja
 Site criado em função de uma prova da materia DESENVOLVIMENTO WEB do curso superior DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA da instituição FATEC-FRANCA. Site é um modelo de um cardapio basico para sites de compras, contendo uma barra fixa com SOBRE, PRODUTOS E CONTATO. O site contem uma aba principal e o nome da loja, em seguida tem um texto falando sobre a loja, em baixo contém alguns produtos com valores. Em seguinte uma aba para contato
 
-#Tags utilizadas no HTML
+# Tags utilizadas no HTML
 
 - HEAD
   - LINK -> Conexão com o CSS e colocar o icone do lado do titulo do site;
