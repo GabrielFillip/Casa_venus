@@ -1,6 +1,8 @@
 # Cardapio De loja
 Site criado em função de uma prova da materia DESENVOLVIMENTO WEB do curso superior DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA da instituição FATEC-FRANCA. Site é um modelo de um cardapio basico para sites de compras, contendo uma barra fixa com SOBRE, PRODUTOS E CONTATO. O site contem uma aba principal e o nome da loja, em seguida tem um texto falando sobre a loja, em baixo contém alguns produtos com valores. Em seguinte uma aba para contato
 
+ - Link do site: https://clinquant-marigold-59b269.netlify.app/
+
 # Tags utilizadas no HTML
 
 - HEAD
