@@ -36,3 +36,13 @@ Site criado em função de uma prova da materia DESENVOLVIMENTO WEB do curso sup
   - CURSOR -> Modifica o cursor do mouse ao passar ele por cima do componente com essa configuração;
   - POSITION -> Define a posição em que um item ira ficar;
   - BOX-SIZING -> Determina as dimensões especificadas (largura e altura) de um elemento;
+  - OVERFLOW -> Determina limites de tamanho para o conteudo dentro de um elemento html;
+  - FLOAT ->  Usada para definir como um elemento HTML deve ser alinhado dentro de seu contêiner em relação aos outros elementos ao seu redor;
+  - COLOR -> Define a cor de um texto;
+  - BACKGROUND-COLOR -> Define a cor do fundo de um elemento html;
+  - ALIGN-ITEMS -> Usado para controlar a posição VERTICAL de um elemento dentro de um container;
+  - JUSTIFY-CONTENT -> Usado para controlar a posição HORIZONTAL de um elemento dentro de um container;
+  - VERTICAL-ALIGN -> Usada principalmente para elementos inline e elementos de tabela e afeta o alinhamento vertical dentro desses elementos individuais;
+  - BODER -> Define a borda de um elemento;
+  - OPACITY -> Define a opacidade de um elemento;
+  - 
