@@ -47,4 +47,3 @@ Site criado em função de uma prova da materia DESENVOLVIMENTO WEB do curso sup
   - VERTICAL-ALIGN -> Usada principalmente para elementos inline e elementos de tabela e afeta o alinhamento vertical dentro desses elementos individuais;
   - BODER -> Define a borda de um elemento;
   - OPACITY -> Define a opacidade de um elemento;
-  - 
